@@ -4003,7 +4003,6 @@
       "body": "perspiciatis quis doloremque\nveniam nisi eos velit sed\nid totam inventore voluptatem laborum et eveniet\naut aut aut maxime quia temporibus ut omnis"
     }
   ],
-
   "photos": [
     {
       "albumId": 1,
@@ -39006,19 +39005,18 @@
       "thumbnailUrl": "https://via.placeholder.com/150/6dd9cb"
     }
   ],
-
   "posts": [
     {
-      "userId": 1,
+      "userId": "9",
       "id": 1,
-      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "title": "Weekend activity",
+      "body": "Lets go swimming in this sunny weather"
     },
     {
-      "userId": 1,
+      "userId": "1",
       "id": 2,
-      "title": "qui est esse",
-      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+      "title": "qui",
+      "body": "qui"
     },
     {
       "userId": 1,
@@ -39607,6 +39605,138 @@
       "id": 100,
       "title": "at nam consequatur ea labore ea harum",
       "body": "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut"
+    },
+    {
+      "title": "88888888",
+      "body": "88888888",
+      "userId": "1",
+      "id": "a2132b02-6071-45b4-a3e4-219db916bc2f"
+    },
+    {
+      "title": "hey",
+      "body": "dsad",
+      "userId": "2",
+      "id": "c5a295de-f047-4c65-b00e-96aa17abbfd1"
+    },
+    {
+      "title": "form",
+      "body": "hey",
+      "userId": "2",
+      "id": "7aa2a2cb-d954-4e4a-8f98-5b03afa7e5dc"
+    },
+    {
+      "title": "12345",
+      "body": "12345",
+      "userId": "1",
+      "id": "90e9bfeb-f29d-4f3f-9d09-1d40d067cc94"
+    },
+    {
+      "title": "new_post3",
+      "body": "",
+      "userId": "1",
+      "id": "0871d4be-c11d-43b6-a853-4c9a355c5179"
+    },
+    {
+      "title": "new_post",
+      "body": "2",
+      "userId": "1",
+      "id": "664e9640-24e6-48d1-8935-be41a439a1ee"
+    },
+    {
+      "title": "newold",
+      "body": "newold",
+      "userId": "1",
+      "id": "4bfdb75b-5cf9-4c2f-be62-18550c0b5ae1"
+    },
+    {
+      "title": "bye",
+      "body": "bye",
+      "userId": "1",
+      "id": "c0ae4479-0ba8-46ab-890a-fcba8980a13f"
+    },
+    {
+      "title": "",
+      "body": "",
+      "userId": "1",
+      "id": "5401b380-2d7f-4157-941e-bd762d2fc1a6"
+    },
+    {
+      "title": "",
+      "body": "cv",
+      "userId": "1",
+      "id": "8a035cd0-d4ce-4b85-ab00-94e58dd823bd"
+    },
+    {
+      "title": "new post",
+      "body": "new_post",
+      "userId": "1",
+      "id": "73fb6c83-52ee-42e8-831f-bf35f716060a"
+    },
+    {
+      "title": "hello testing",
+      "body": "testing",
+      "userId": "1",
+      "id": "1bcbff65-fa68-479a-a3b8-fd2e1ebc0555"
+    },
+    {
+      "title": "new post from clementine",
+      "body": "new post from clementine",
+      "userId": "3",
+      "id": "786a358e-e91a-494a-83fe-fff82e76ca17"
+    },
+    {
+      "title": "new post from dennis",
+      "body": "hi",
+      "userId": "6",
+      "id": "bcaaaea4-67ee-47be-b870-2a97e025773d"
+    },
+    {
+      "title": "testing title",
+      "body": "title",
+      "userId": "4",
+      "id": "31b72ba9-0877-4dac-b4d9-9ea2e84d33d4"
+    },
+    {
+      "title": "Kurtise post",
+      "body": "post form Kur, im fine",
+      "userId": "7",
+      "id": "9b10c462-3eaa-419d-b64b-42fdeeb824cd"
+    },
+    {
+      "title": "zcxc",
+      "body": "sadas",
+      "userId": "1",
+      "id": "daafda72-186b-42d9-a712-7564932581dd"
+    },
+    {
+      "title": "new title from me",
+      "body": "me",
+      "userId": "4",
+      "id": "5aa01066-0cb2-47ce-8938-74f2b5556a58"
+    },
+    {
+      "title": "hello world",
+      "body": "This is a post from Dennis",
+      "userId": "6",
+      "id": "dfe005e4-f4fb-49ea-8fde-ac8bc472645f"
+    },
+    {
+      "title": "Chelsey post",
+      "body": "Hello, this is a post from Chelsey",
+      "userId": "5",
+      "id": "c135c952-1de3-4cf1-aacf-e10bac64bbd8"
+    },
+    {
+      "title": "Hi ",
+      "body": "Hi from Kurtis",
+      "userId": "7",
+      "id": "0d0e7715-c47f-4100-997a-c27abe12ae0b"
+    },
+    {
+      "title": "Today is a good day ",
+      "body": "Today is sunny",
+      "userId": "9",
+      "id": "e537584d-34b2-4faa-9699-1a48a240f6f4"
     }
   ],
   "todos": [
@@ -40811,7 +40941,6 @@
       "completed": false
     }
   ],
-
   "users": [
     {
       "id": 1,
