@@ -1,19 +1,26 @@
-const express = require("express");
-const path = require("path");
+// const jsonServer = require("json-server");
+// const server = jsonServer.create();
+// const router = jsonServer.router("db.json");
+// const middlewares = jsonServer.defaults();
+
+// server.use(middlewares);
+// server.use(router);
+
+// const port = process.env.PORT || 3000;
+// server.listen(port, () => {
+//   console.log("JSON Server is running on port", port);
+// });
+
+// Add Express
+import express from "express";
+
 const app = express();
-const port = process.env.PORT || 3000;
 
-// Serve your JSON files
-app.use("/albums", express.static(path.join(__dirname, "data/albums.json")));
-app.use(
-  "/comments",
-  express.static(path.join(__dirname, "data/comments.json"))
-);
-app.use("/photos", express.static(path.join(__dirname, "data/photos.json")));
-app.use("/posts", express.static(path.join(__dirname, "data/posts.json")));
-app.use("/todos", express.static(path.join(__dirname, "data/todos.json")));
-app.use("/users", express.static(path.join(__dirname, "data/users.json")));
+// enable JSON body parser
+app.use(express.json());
 
-app.listen(port, () => {
-  console.log(`Server running on port ${port}`);
+app.get("/", (req, res) => {
+  res.send("Hello World!");
 });
+
+export default app;
